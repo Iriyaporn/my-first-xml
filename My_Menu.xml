@@ -1,0 +1,21 @@
+<Menue>
+  <food>
+    <mame>Pizza</name>
+    <price>$12</price>
+    <calorie>350</calorie>
+  </food>
+  <food>
+    <mame>Hotdog</name>
+    <price>$8</price>
+    <calorie>280</calorie>
+  <food>
+    <mame>Timsum</name>
+    <price>$10</price>
+    <calorie>300</calorie>
+  </food>
+  food>
+    <mame>Thai noodle</name>
+    <price>$5</price>
+    <calorie>420</calorie>
+  </food>
+</Menue>
